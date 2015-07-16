@@ -80,7 +80,7 @@ public class Roover {
         System.out.println(initX);
         System.out.println(initY);
         System.out.println(c);
-        System.out.println(move);
+        //System.out.println(move);
 
 
 
